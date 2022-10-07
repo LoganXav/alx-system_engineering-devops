@@ -1,2 +1,1 @@
-another readme
-Display the content of the directory in a long format
+Display current directory contents in a long format
